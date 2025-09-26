@@ -12,8 +12,7 @@ ng serve
 
 Una vez que el servidor esté en funcionamiento, abre tu navegador y navega a `http://localhost:4200/`. La aplicación se recargará automáticamente cada vez que modifiques cualquiera de los archivos fuente.
 
-## La aplicación se recargará automáticamente cada vez que modifiques cualquiera de los archivos fuente.
-
+## Generación de componentes
 Angular CLI incluye potentes herramientas de scaffolding. Para generar un nuevo componente, ejecuta:
 
 ```bash
@@ -60,4 +59,5 @@ Si no tienes instalada la dependencia puedes ejecutar:
 ```bash
 npm install cors
 ```
+
 
